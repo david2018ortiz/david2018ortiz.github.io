@@ -5698,6 +5698,9 @@ fieldset:disabled .btn {
         border-left-width: 1px;
     }
 }
+.list-group-item{
+font_size:14px;
+}
 
 .list-group-flush {
     border-radius: 0;
