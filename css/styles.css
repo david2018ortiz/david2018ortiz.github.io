@@ -5698,7 +5698,7 @@ fieldset:disabled .btn {
         border-left-width: 1px;
     }
 }
-.list-group-item{
+.list-group .list-group-item li{
 font_size:14px;
 }
 
